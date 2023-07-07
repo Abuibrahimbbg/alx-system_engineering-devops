@@ -1,2 +1,2 @@
-#!/bin/baah
+#!/bin/bash
 chmod 007 hello
